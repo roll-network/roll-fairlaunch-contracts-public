@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+      "allowJs": true,
+      "baseUrl": ".",
+      "declaration": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "lib": ["esnext"],
+      "module": "esnext",
+      "moduleResolution": "node",
+      "noEmit": true,
+      "noImplicitAny": true,
+      "outDir": "dist",
+      "paths": {
+        "@typechain-types": ["typechain-types"]
+      },
+      "resolveJsonModule": true,
+      "skipLibCheck": true,
+      "sourceMap": false,
+      "strict": true,
+      "target": "es2020"
+    },
+    "ts-node": {
+      "compilerOptions": {
+        "module": "commonjs"
+      }
+    },
+    "exclude": ["dist"]
+  }
+  
