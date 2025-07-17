@@ -31,7 +31,7 @@
     "@nomicfoundation/hardhat-network-helpers": "^1.0.12",
     "@nomicfoundation/hardhat-verify": "^2.0.12",
     "@nomicfoundation/ignition-core": "^0.15.9",
-    "@openzeppelin/contracts": "^5.0.2",
+    "@openzeppelin/contracts": "^5.4.0",
     "@types/sinon-chai": "^3.2.3",
     "chai": "^4.3.7",
     "dotenv": "^16.4.5",
